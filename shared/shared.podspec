@@ -17,13 +17,6 @@ Pod::Spec.new do |spec|
         'PRODUCT_MODULE_NAME' => 'shared',
     }
                 
-    spec.script_phases = [
-        {
-            :name => 'Build shared',
-            :execution_position => :before_compile,
-            :shell_path => '/bin/sh',
 
-        }
-    ]
-                
+            
 end
