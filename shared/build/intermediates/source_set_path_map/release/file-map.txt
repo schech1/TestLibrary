@@ -1,0 +1,9 @@
+com.example.testlibrary.shared-pngs-0 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/generated/res/pngs/release
+com.example.testlibrary.shared-resValues-1 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/generated/res/resValues/release
+com.example.testlibrary.shared-rs-2 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/generated/res/rs/release
+com.example.testlibrary.shared-mergeReleaseResources-3 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.testlibrary.shared-mergeReleaseResources-4 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.testlibrary.shared-merged_res-5 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/build/intermediates/merged_res/release
+com.example.testlibrary.shared-androidMain-6 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/src/androidMain/res
+com.example.testlibrary.shared-main-7 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/src/main/res
+com.example.testlibrary.shared-release-8 /Users/christophscherbeck/AndroidStudioProjects/TestLibrary/shared/src/release/res
