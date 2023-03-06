@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '1.0'
     spec.homepage = 'https://www.cocoapods.org'
-    spec.source = { :git => "https://github.com/schech1/TestLibrary", :tag => "{spec.version}" }
+    spec.source = { :git => "https://github.com/schech1/TestLibrary", :tag => "main" }
     spec.authors = 'chris'
     spec.license = ''
     spec.summary = 'testlib'
