@@ -1,11 +1,12 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '1.0'
-    spec.homepage                 = 'https://github.com/schech1/TestLibrary'
-    spec.source                   = { :http=> ''}
-    spec.authors                  = ''
-    spec.license                  = ''
-    spec.summary                  = 'Some description for the Shared Module'
+    spec.homepage = 'https://www.cocoapods.org'
+    spec.source = { :git => "https://github.com/schech1/TestLibrary", :tag => "{spec.version}" }
+    spec.authors = 'chris'
+    spec.license = ''
+    spec.summary = 'testlib'
+    spec.static_framework = true
     spec.vendored_frameworks      = 'build/cocoapods/framework/shared.framework'
     spec.libraries                = 'c++'
     spec.ios.deployment_target = '14.1'
